@@ -1,6 +1,15 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Привет!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
+<div align="center">
+  
   ### 💫 Добро пожаловать в мой профиль!
   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=QA+Engineer+🔍;Test+Automation+Specialist+🤖;Bug+Hunter+🐛;Quality+Advocate+✅" alt="Typing SVG" />
+  
+</div>
+
 ---
 
 ### 🚀 О себе
@@ -38,7 +47,7 @@ class QA_Engineer:
         return "Улучшаю покрытие автотестами и оптимизирую CI/CD"
     
     def fun_fact(self):
-        return "Работаю за пиво"
+        return "Нахожу баги быстрее, чем компилятор ⚡"
 ```
 
 ---
@@ -72,4 +81,8 @@ class QA_Engineer:
 
 </div>
 
+---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
