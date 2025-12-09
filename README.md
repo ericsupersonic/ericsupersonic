@@ -1,58 +1,23 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Привет!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
 
-<div align="center">
-  
-  ### 💫 Добро пожаловать в мой профиль!
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=QA+Engineer+🔍;Test+Automation+Specialist+🤖;Bug+Hunter+🐛;Quality+Advocate+✅" alt="Typing SVG" />
-  
-</div>
+**QA Automation Engineer** from Saint Petersburg, Russia 🇷🇺
 
----
+I specialize in test automation and quality assurance. I love finding bugs and turning them into stable automated tests!
 
-### 🚀 О себе
+#### 📚 Education
+- **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
+  - 🎓 Bachelor's Degree in Computer Science and Engineering (2025)
+  - 🎓 Master's Degree in Software Engineering (Current)
 
-```python
-class QA_Engineer:
-    def __init__(self):
-        self.name = "Erika Shageeva"
-        self.role = "QA Automation Engineer"
-        self.location = "Saint-Petersburg, Russia"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        
-    def get_skills(self):
-        return {
-            "testing": {
-                "frameworks": ["Pytest", "Playwright"],
-                "types": ["E2E", "API", "Integration", "Regression"],
-                "methodologies": ["Agile", "Scrum", "CI/CD"]
-            },
-            "automation": {
-                "web": ["Playwright", "Selenium"],
-                "api": ["Requests", "HTTPX"],
-                "reporting": ["Allure", "Pytest-html"]
-            },
-            "databases": ["PostgreSQL"],
-            "devops": {
-                "containers": ["Docker"],
-                "orchestration": ["Kubernetes"],
-                "vcs": ["Git", "GitHub Actions"]
-            },
-            "tools": ["Postman", "Charles", "DevTools"]
-        }
-    
-    def current_focus(self):
-        return "Улучшаю покрытие автотестами и оптимизирую CI/CD"
-    
-    def fun_fact(self):
-        return "Нахожу баги быстрее, чем компилятор ⚡"
-```
+#### 💼 Experience
+- 🚀 **Yandex** - Quality Assurance Engineer Intern (Current)
+
+#### 📫 Connect with me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ericsupersonic)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eri.shageeva@yandex.ru)
 
 ---
 
-### 🛠️ Мой стек технологий
+### 🛠️ Tech Stack
 
 <div align="center">
 
