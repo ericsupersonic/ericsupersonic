@@ -5,7 +5,7 @@ I specialize in test automation and quality assurance. I love finding bugs and t
 
 #### 📚 Education
 - **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
-  - 🎓 Bachelor's Degree in Computer Science and Engineering (2025)
+  - 🎓 Bachelor's Degree in Computer Science (2025)
   - 🎓 Master's Degree in Software Engineering (Current)
 
 #### 💼 Experience
