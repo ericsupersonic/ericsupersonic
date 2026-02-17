@@ -9,11 +9,11 @@ I specialize in test automation and quality assurance. I love finding bugs and t
   - 🎓 Master's Degree in Software Engineering (Current)
 
 #### 💼 Experience
-- 🚀 **Yandex** - Quality Assurance Engineer Intern (Current)
+- 🚀 **Yandex** - Quality Assurance Engineer Intern (Completed, positive feedback)
 
 #### 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ericsupersonic)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eri.shageeva@yandex.ru)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev@ericsupersonic.ru)
 
 ---
 
@@ -25,7 +25,6 @@ I specialize in test automation and quality assurance. I love finding bugs and t
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Database
