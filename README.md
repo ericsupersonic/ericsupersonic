@@ -9,7 +9,8 @@ I specialize in test automation and quality assurance. I love finding bugs and t
   - 🎓 Master's Degree in Software Engineering (Current)
 
 #### 💼 Experience
-- 🚀 **Yandex** - Quality Assurance Engineer Intern (Completed, positive feedback)
+-  **Yandex** - Quality Assurance Engineer Intern (Telemost, manual testing)
+-  **OZON tech**  - Quality Assurance Engineer Intern (OZON bank, integration testing, current)
 
 #### 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ericsupersonic)
