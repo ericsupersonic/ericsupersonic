@@ -10,7 +10,7 @@ I specialize in test automation and quality assurance. I love finding bugs and t
 
 #### 💼 Experience
 -  **Yandex** - Quality Assurance Engineer Intern (Telemost, manual testing)
--  **OZON tech**  - Quality Assurance Engineer Intern (OZON bank, integration testing, current)
+-  **OZON tech**  - Quality Assurance Engineer I (OZON bank, integration testing, current)
 
 #### 📫 Connect with me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ericsupersonic)
